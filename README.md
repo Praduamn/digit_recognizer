@@ -3,6 +3,9 @@
 A simple machine learning project that recognizes handwritten digits (0–9) using the **digits dataset** from `scikit-learn`.  
 The model is built using **Support Vector Machines (SVM)** with preprocessing, and achieves **~98–99% accuracy**.
 
+<img width="1500" height="1200" alt="image" src="https://github.com/user-attachments/assets/3e725379-253d-44e9-b252-8ffb434ed194" />
+
+
 ---
 
 ## 📂 Project Structure
